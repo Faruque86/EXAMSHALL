@@ -1,0 +1,8 @@
+{
+  "name": "EXAMSHALL",
+  "description": "Bilingual educational assessment portal with AI question generation and live quiz analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
